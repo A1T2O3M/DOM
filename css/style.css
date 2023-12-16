@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding:0;
+    background-image: url("Photox.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+img{
+    height: 30px;
+    width: 30px;
+    margin:15px 0  0 100px;
+    border-radius: 50%;
+}
+
+
+
+#desc{
+    text-align: center;
+    font-size: 65px;
+    color:lightgoldenrodyellow
+    margin:80px 0 0 0; 
+}
+
+ul{
+        display:flex;
+        list-style: none;
+        float: right;
+        margin: -29px 24px 0 0 ;
+}
+
+li{
+    padding: 10px;
+    color:plum
+}
+
+button{
+    background-color: aquamarine;
+    color: rgb(255, 255, 255);
+    border: none;
+    height:50px;
+    width:130px;
+    border-radius: 3px;
+    font-size: 20px;
+    margin: 50px 0 0 500px;
+}
+
+button:hover{
+    background-color: rgba;
+
+}

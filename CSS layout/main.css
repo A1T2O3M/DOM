@@ -1,0 +1,65 @@
+.ul-lists{
+    margin: 40px 0 0 0;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+    height: 500px;
+    ;
+}
+
+
+.ul-lists img{
+   height: 15px;
+   width: 15px;
+   margin: 20px 0 0 -10px;
+
+}
+
+.ul-lists li{
+    list-style: none;
+    text-align: center;
+    margin: 0 0 0 -30px;
+}
+
+.card{
+    width: 170px !important;
+    height: 500px;
+    margin: 40px 0 0 0;
+}
+
+.card span{
+   display: flex;
+   margin: 20px 0 0 30px ;
+}
+
+.headers{
+    display: flex;
+}
+
+.headers h6{
+    margin: 40px 0 0 20px;
+    font-weight: 500;
+    font-size: 13px;
+    color: #3d83df;
+}
+
+
+.s{
+    margin: 40px 0 0 0;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff !important;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+    height: 500px;
+}
